@@ -1,0 +1,19 @@
+{
+  "name": "leetnode",
+  "version": "1.0.0",
+  "description": "A LeetCode CLI created with NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thenlie/LeetNode.git"
+  },
+  "author": "Thenlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thenlie/LeetNode/issues"
+  },
+  "homepage": "https://github.com/Thenlie/LeetNode#readme"
+}
